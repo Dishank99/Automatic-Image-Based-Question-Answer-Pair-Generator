@@ -1,0 +1,5 @@
+go to anaconda -> open terminal for 'new-py36' env -> redirect to 'flast api for inver label encoder' dir(currently in desktop)
+-> python app.py 
+
+go to anaconda -> open terminal for 'new-py2' env -> redirect to 'New Folder' (currently in desktop) 
+-> enter command 'python demo.py -image_file_name path_to_file -question "Question to be asked"'
